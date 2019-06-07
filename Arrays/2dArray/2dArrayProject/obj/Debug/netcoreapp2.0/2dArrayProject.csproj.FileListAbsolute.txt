@@ -1,0 +1,10 @@
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/bin/Debug/netcoreapp2.0/2dArrayProject.deps.json
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/bin/Debug/netcoreapp2.0/2dArrayProject.runtimeconfig.json
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/bin/Debug/netcoreapp2.0/2dArrayProject.runtimeconfig.dev.json
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/bin/Debug/netcoreapp2.0/2dArrayProject.dll
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/bin/Debug/netcoreapp2.0/2dArrayProject.pdb
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/obj/Debug/netcoreapp2.0/2dArrayProject.csproj.CoreCompileInputs.cache
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/obj/Debug/netcoreapp2.0/2dArrayProject.AssemblyInfoInputs.cache
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/obj/Debug/netcoreapp2.0/2dArrayProject.AssemblyInfo.cs
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/obj/Debug/netcoreapp2.0/2dArrayProject.dll
+/Users/ryan/Documents/Code/Arrays/2dArrayProject/obj/Debug/netcoreapp2.0/2dArrayProject.pdb

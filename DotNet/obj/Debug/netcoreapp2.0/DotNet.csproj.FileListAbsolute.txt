@@ -1,0 +1,10 @@
+/Users/ryan/Documents/Code/Arrays/DotNet/bin/Debug/netcoreapp2.0/DotNet.deps.json
+/Users/ryan/Documents/Code/Arrays/DotNet/bin/Debug/netcoreapp2.0/DotNet.runtimeconfig.json
+/Users/ryan/Documents/Code/Arrays/DotNet/bin/Debug/netcoreapp2.0/DotNet.runtimeconfig.dev.json
+/Users/ryan/Documents/Code/Arrays/DotNet/bin/Debug/netcoreapp2.0/DotNet.dll
+/Users/ryan/Documents/Code/Arrays/DotNet/bin/Debug/netcoreapp2.0/DotNet.pdb
+/Users/ryan/Documents/Code/Arrays/DotNet/obj/Debug/netcoreapp2.0/DotNet.csproj.CoreCompileInputs.cache
+/Users/ryan/Documents/Code/Arrays/DotNet/obj/Debug/netcoreapp2.0/DotNet.AssemblyInfoInputs.cache
+/Users/ryan/Documents/Code/Arrays/DotNet/obj/Debug/netcoreapp2.0/DotNet.AssemblyInfo.cs
+/Users/ryan/Documents/Code/Arrays/DotNet/obj/Debug/netcoreapp2.0/DotNet.dll
+/Users/ryan/Documents/Code/Arrays/DotNet/obj/Debug/netcoreapp2.0/DotNet.pdb
